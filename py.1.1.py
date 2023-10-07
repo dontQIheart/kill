@@ -53,4 +53,12 @@ def sort3(arr):
 sort3(arr)
 print(arr)
 """
-        
+'''
+函数
+x = int(input('请输入一个整数:'))
+y = int(input('请输入一个整数:'))
+z = int(input('请输入一个整数:'))
+arr = [x,y,z]
+arr.sort(reverse=True)
+print(arr)
+'''       
